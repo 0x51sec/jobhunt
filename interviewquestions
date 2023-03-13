@@ -1,76 +1,80 @@
-Just a list of interview questions I like to ask.
+# Just a list of interview questions I like to ask.
 
-1. When was the last time everyone in this room/interview took a vacation?
+> 1. When was the last time everyone in this room/interview took a vacation?
 Answer: Prefer a specific date or timeframe, especially with teammates or coworkers
 Why? - This is a good metric to find out how good work/life balance is. If they don't provide a specific timeframe, it's not an immediate red flag but keep it in mind when evaluating further culture considerations.
 
-2. What problems will this position be involved with/responsible for solving?
+> 2. What problems will this position be involved with/responsible for solving?
 Answer: Specific problems that either have a measurable impact or measurable solution.
 Why? - You'll want to find out what's causing problems to continue proving your worth beyond your responsibiltiies.
 
-3. What's expected of me within my first 30-90 days?
+> 3. What's expected of me within my first 30-90 days?
 Answer: Specific, measurable goals that seem reasonable within the context of the position/team.
 Why? - This gives you specific ideas of what your priorities should be (in tandem with your job responsibilities).
 
-4. When was the last one-on-one meeting you had with your manager?
+> 4. When was the last one-on-one meeting you had with your manager?
 Answer: Within a month. Anything beyond that is a red flag.
 Why? - You need continual communication with your manager, regardless of your position. A lack of communication is a fast track to being thrown for a loop when you have problems that lead to a PIP or immediate termination.
 
-5. What technologies or processes are you looking to implement or onboard that this position will be involved with?
+> 5. What technologies or processes are you looking to implement or onboard that this position will be involved with?
 Answer: This one is tricky, depending on the industry, but generally you'll want specific names or industry best practices.
 Why? - This can give you a good heads up to not be as blindsided by new tech being thrown into your lap. This can also give you a good jumping off point to highlight more experience if it's a solution you have experience with!
 
-6. How has your organization handled the layoffs that have been occurring for the last several months?
+> 6. How has your organization handled the layoffs that have been occurring for the last several months?
 Answer: This really depends on the org, but you'll want an answer from . A lot haven't had to have layoffs, but some will be really coy about whether they've done layoffs or not. Try to research the company beforehand. 
 Why? - If a company experienced layoffs recently, there's a good chance they'll either go through more layoffs, or are going to underpay you significantly for the job you've applied for.
 
-7. What ways have you found a Work From Home policy benefitting the team?
+> 7. What ways have you found a Work From Home policy benefitting the team?
 Answer: Look for equal input from the hiring manager (if they're in the interview) and coworkers. 
 Why? - This is less of a proper question, and more determining if they're antagonistic towards WFH or not. If they are, that's a major red flag. 
 
-8. What kind of training opportunities are provided to you/your team?
+> 8. What kind of training opportunities are provided to you/your team?
 Answer: At least one team member by name who has obtained a certification within the last three to six calendar months. If they give vague details, they don't have any training opportunities. The more vague they are, the bigger a red flag.
 Why? - Continual education is vitally important in information security. If a company isn't willing to support you in pursuing certifications or more training, they aren't a company you'll want to stick around in. 
 
-9. Are bonuses a part of my compensation package?
+> 9. Are bonuses a part of my compensation package?
 Answer: If yes, press for more details. Ask specifically for what metrics would be measured, and examples of metrics that would be deserving of a bonus. 
 Why? - Bonuses can often be included as part of a compensation package to lower the actual salary, and then gate the bonus behind ridiculous performance metrics. 
 
-10. What do you do from a managerial/departmental perspective to ensure a healthy work/life balance?
+> 10. What do you do from a managerial/departmental perspective to ensure a healthy work/life balance?
 Answer: You're looking for more input from the manager here. It's their responsibility to ensure their employees aren't burned out. The lack of an answer, or a vague answer, is a red flag. 
 Why? - Burnout sucks regardless of your organization, but it's made worse by a manager who doesn't care or who doesn't view it as an isue.
 
-11. What kind of managerial feedback and support can I expect to ensure I’m performing to the expectations of my manager and team?
+> 11. What kind of managerial feedback and support can I expect to ensure I’m performing to the expectations of my manager and team?
 Answer: Specific scheduling and expectations. This is really dependent on the org and your management/performance style, but having structured feedback sessions is vitally important. 
 Why? - No manager feedback = No heads up when you're laid off/fired.
 
-12. Are there any metrics that need to be met on a consistent basis in this position, such as ticketing percentages or other SLA’s?
-Answer: SLA's. If there aren't any SLA's, then yay. If there are, ask for specifics on what those SLA's are. 
+> 12. Are there any metrics that need to be met on a consistent basis in this position, such as ticketing percentages or other SLA’s?
+Answer: Specific numbers. X amount of tickets per week, completing a ticket in Y minutes. If there aren't any SLA's, then yay. If there are, ask for specifics on what those SLA's are. 
 Why? - These are your performance metrics. Knowing which ones are important will be key to prioritizing your workload.
 
+> 13. What's a lesson that you or your team learned from your most recent security incident?
+Answer: This is a bit of a tricky one, what with the confidentiality of security incidents, but you'll preferably want to see indicators that the team is actively seeking to improve their security posture and their skills. If they say anything like "We don't have security incidents" or indicate they didn't really learn anything, that's a red flag.
+Why? - Having a team that either acknowledges that they have security incidents, or have postmortems for security incidents, is vitally important to your continued employment as any security professional. 
+
 GENERALLY AVOID ANSWERING THE FOLLOWING QUESTIONS:
-- Current salary or compensation. (This can be used to lowball you. Try to respond with "What's the budget that's been allocated for this position?". If they respond without a range, say "I'm open to negotiations".)
+> Current salary or compensation. (This can be used to lowball you. Try to respond with "What's the budget that's been allocated for this position?". If they respond without a range, say "I'm open to negotiations".)
   - What are your salary expectations?
   - What is your current compensation?
-- When you went to high school or college. (Not even slightly relevant information for a job, this is used to figure out age.)
+> When you went to high school or college. (Not even slightly relevant information for a job, this is used to figure out age.)
   - Where did you attend high school/college?
   - When did you graduate?
-- Marital or familial status. 
+  - What was your GPA in high school? (Again, this information isn't even slightly relevant.)
+> Marital or familial status. (Can be used to discriminate against you)
   - Are you married?
   - Do you have/are you expecting kids?
-- Weekend/weekday availability. 
-- Physical capabilities. (This is to discriminate against those with physical disabilities. Always respond with "I have faith in my ability to fulfill the responsibilities of the position)
+> Physical capabilities. (This is to discriminate against those with physical disabilities. Always respond with "I have faith in my ability to fulfill the responsibilities of the position)
   - Can you lift X amount of weight?
   - Can you do lots of sitting and/or standing?
-- Home address. (This is almost always used to discriminate against work from home candidiates)
+> Home address. (This is almost always used to discriminate against work from home candidiates)
   - How long have you lived at your current address?
   - Do you rent or own your current residence?
-- Questions about citizenship (Flat out racial discrimination. Always respond with "I can disclose this information when an offer is made")
+> Questions about citizenship (Flat out racial discrimination. Always respond with "I can disclose this information when an offer is made")
   - Are you a US citizen?
   - Will you require sponsorship if we offer this position?
-- Questions about military status or discharge status (These questions are illegal)
-- What your maiden name is.
-- Membership of clubs or organizations (This is often used as a proxy question to determine race, sex, gender identity, religion, familial status, financial status, or other personal information that is irrelevant to the job)
-- Ownership of assets. (These questions are illegal)
+> Questions about military status or discharge status (These questions are illegal)
+> What your maiden name is.
+> Membership of clubs or organizations (This is often used as a proxy question to determine race, sex, gender identity, religion, familial status, financial status, or other personal information that is irrelevant to the job)
+> Ownership of assets. (These questions are illegal)
   - Do you own a/your car?
   - Do you rent or own your current residence?
